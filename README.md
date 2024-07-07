@@ -1,16 +1,19 @@
 # e3s2_hackathon
 
-A new Flutter project.
+A 3 day hackathon @ UTP, Malaysia ⛽
+📆5 - 7 July, 2024.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is our developed application
 
-A few resources to get you started if this is your first Flutter project:
+Description of the project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+'Assets' folder contains all images
+'lib' folder contains the code and the screens in the mobile application
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screens
+#### Quiz feature
+subscreens in this feature include quiz, widgets, score.
+
+- [App Demo](https://github.com/CodeT1m/E3S2_Hackathon/assets/40980295/a387204f-c15d-42d0-bfc9-506e740f62a8)
