@@ -32,3 +32,27 @@ List<Category> categoryList = [
     thumbnail: 'assets/icons/photo.jpg',
   ),
 ];
+
+
+List<Category> tutorList = [
+  Category(
+    name: 'Timi',
+    noOfCourses: 55,
+    thumbnail: 'assets/imgs/tutor1.png',
+  ),
+  Category(
+    name: 'Xin Ru',
+    noOfCourses: 20,
+    thumbnail: 'assets/imgs/tutor2.png',
+  ),
+  Category(
+    name: 'Recelia',
+    noOfCourses: 16,
+    thumbnail: 'assets/imgs/tutor3.png',
+  ),
+  Category(
+    name: 'Lilian',
+    noOfCourses: 25,
+    thumbnail: 'assets/imgs/tutor4.png',
+  ),
+];
