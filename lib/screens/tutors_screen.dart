@@ -3,6 +3,7 @@ import 'package:e3s2_hackathon/models/category.dart';
 import 'package:e3s2_hackathon/widgets/category_card.dart';
 import 'package:e3s2_hackathon/widgets/circle_button.dart';
 import 'package:e3s2_hackathon/widgets/search_field.dart';
+import 'package:e3s2_hackathon/widgets/tutor_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -72,7 +73,7 @@ class Body2 extends StatelessWidget {
               mainAxisSpacing: 24,
             ),
             itemBuilder: (context, index) {
-              return CategoryCard(
+              return TutorCard(
                 category: tutorList[index],
               );
             })
