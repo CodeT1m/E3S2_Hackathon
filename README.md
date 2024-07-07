@@ -16,4 +16,4 @@ Description of the project:
 #### Quiz feature
 subscreens in this feature include quiz, widgets, score.
 
-- [App Video](https://github.com/CodeT1m/E3S2_Hackathon/assets/40980295/a387204f-c15d-42d0-bfc9-506e740f62a8)
+- [App Demo](https://github.com/CodeT1m/E3S2_Hackathon/assets/40980295/a387204f-c15d-42d0-bfc9-506e740f62a8)
